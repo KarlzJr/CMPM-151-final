@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/alejandrasicairos/Documents/GitHub/CMPM-151-final/CMPM 151/Content/Orchestration1.uasset",
+				"/Users/alejandrasicairos/Documents/GitHub/CMPM-151-final/CMPM 151/Content/Orchestration2.uasset",
+				"/Users/alejandrasicairos/Documents/GitHub/CMPM-151-final/CMPM 151/Content/PentatonicHarmonicsGenerator.uasset",
+				"/Users/alejandrasicairos/Documents/GitHub/CMPM-151-final/CMPM 151/Content/Orchestration3.uasset",
+				"/Users/alejandrasicairos/Documents/GitHub/CMPM-151-final/CMPM 151/Content/PentatonicSinGenerator.uasset",
+				"/Users/alejandrasicairos/Documents/GitHub/CMPM-151-final/CMPM 151/Content/AlgorithmicSequencing.uasset",
 				"/Users/alejandrasicairos/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_PillarFrame.uasset",
 				"/Users/alejandrasicairos/Documents/Unreal Projects/MyProject2/Content/Pickup.uasset",
 				"/Users/alejandrasicairos/Documents/Unreal Projects/MyProject2/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset"
