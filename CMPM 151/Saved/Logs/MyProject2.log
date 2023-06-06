@@ -1522,3 +1522,8 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.06.06-01.19.50:513][198]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.06.06-01.19.50:516][199]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2023.06.06-01.19.50:521][199]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.06.06-01.23.35:209][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.06.06-01.23.35:212][319]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto1
+[2023.06.06-01.23.35:213][319]LogSavePackage: Moving '../../../../../../Users/jnadl/OneDrive/Documents/GitHub/CMPM-151-final/CMPM 151/Saved/EAHCBN229IT8APJO305AH5_Auto19D1F468B4D625709E271B790A4FC904D.tmp' to '../../../../../../Users/jnadl/OneDrive/Documents/GitHub/CMPM-151-final/CMPM 151/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5_Auto1.uasset'
+[2023.06.06-01.23.35:215][319]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.028
+[2023.06.06-01.23.35:215][319]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
